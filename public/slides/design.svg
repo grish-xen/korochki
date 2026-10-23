@@ -1,2 +1,20 @@
-﻿<!-- Vector artwork for the design asset. -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 525" role="img" aria-label="Абстрактная иллюстрация веб-дизайна"><rect width="600" height="525" fill="#e7e7dd"/><circle cx="420" cy="152" r="160" fill="#f2d9c7"/><circle cx="95" cy="400" r="125" fill="#c8dcd0"/><rect x="110" y="105" width="381" height="310" rx="22" fill="#214d40" transform="rotate(7 300 260)"/><g transform="rotate(7 300 260)"><rect x="128" y="125" width="345" height="271" rx="11" fill="#faf8f0"/><circle cx="155" cy="148" r="4" fill="#c97d63"/><circle cx="170" cy="148" r="4" fill="#d6bb80"/><circle cx="185" cy="148" r="4" fill="#72967c"/><rect x="153" y="180" width="129" height="153" rx="65" fill="#d4e0ce"/><path d="M176 296c16-44 42-68 80-91" stroke="#6f9a7e" stroke-width="9" fill="none"/><circle cx="265" cy="204" r="17" fill="#eebc83"/><rect x="304" y="181" width="142" height="16" rx="8" fill="#244d42"/><rect x="304" y="212" width="103" height="9" rx="4" fill="#c9d6c8"/><rect x="304" y="234" width="123" height="9" rx="4" fill="#c9d6c8"/><rect x="304" y="280" width="108" height="36" rx="5" fill="#b86b4c"/><rect x="153" y="351" width="293" height="18" rx="9" fill="#e1e8db"/></g><path d="M483 90l8 20 20 8-20 8-8 20-8-20-20-8 20-8z" fill="#b86b4c"/></svg>
+<!-- Illustration for the interface-design slide. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 525" role="img" aria-label="Схема цифрового интерфейса">
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#4f6682" stroke-opacity=".28"/></pattern>
+  </defs>
+  <rect width="600" height="525" fill="#10182b"/>
+  <rect width="600" height="525" fill="url(#grid)"/>
+  <circle cx="487" cy="135" r="160" fill="#463f81" opacity=".58"/>
+  <circle cx="106" cy="423" r="145" fill="#184b64" opacity=".65"/>
+  <rect x="87" y="98" width="426" height="331" fill="#14283d" stroke="#7e9bb8" stroke-width="2"/>
+  <path d="M87 141h426" stroke="#7e9bb8" stroke-width="2"/>
+  <circle cx="113" cy="119" r="5" fill="#70e1ee"/><circle cx="132" cy="119" r="5" fill="#b6a4ff"/><circle cx="151" cy="119" r="5" fill="#91c3ff"/>
+  <rect x="117" y="172" width="159" height="177" fill="#253d59" stroke="#70e1ee" stroke-width="2"/>
+  <circle cx="196" cy="243" r="46" fill="#b6a4ff"/><circle cx="196" cy="243" r="27" fill="#243253"/>
+  <path d="M143 313h106" stroke="#70e1ee" stroke-width="7"/>
+  <path d="M310 181h155m-155 27h98m-98 59h155m-155 27h131" stroke="#96b1cf" stroke-width="10"/>
+  <rect x="310" y="333" width="150" height="51" fill="#70e1ee"/>
+  <path d="M357 359h58" stroke="#123047" stroke-width="8"/>
+  <path d="M277 410l30 62 11-26 26-11z" fill="#f0f6ff" stroke="#111b32" stroke-width="5"/>
+</svg>

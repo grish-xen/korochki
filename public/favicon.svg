@@ -1,2 +1,6 @@
-﻿<!-- Vector artwork for the favicon asset. -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="15" fill="#214d40"/><path d="M17 16h10v13l13-13h12L35 32l18 16H40L27 35v13H17z" fill="#fff"/><circle cx="51" cy="52" r="5" fill="#f0bd77"/></svg>
+<!-- Favicon for the dark portal theme. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="1" y="1" width="62" height="62" rx="4" fill="#101c2d" stroke="#70e1ee" stroke-width="2"/>
+  <path d="M17 15h9v15l14-15h11L35 32l17 17H40L26 35v14h-9z" fill="#70e1ee"/>
+  <circle cx="51" cy="51" r="4" fill="#b6a4ff"/>
+</svg>

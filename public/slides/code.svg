@@ -1,2 +1,18 @@
-﻿<!-- Vector artwork for the code asset. -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 525" role="img" aria-label="Абстрактная иллюстрация программирования"><rect width="600" height="525" fill="#dceadd"/><circle cx="450" cy="126" r="143" fill="#c6dec9"/><circle cx="121" cy="350" r="145" fill="#f2d2b9"/><path d="M95 113c50-30 112-39 165-20" fill="none" stroke="#55846a" stroke-width="2"/><rect x="116" y="128" width="375" height="286" rx="22" fill="#214d40" transform="rotate(-8 303 271)"/><rect x="137" y="151" width="333" height="235" rx="12" fill="#f6f5ec" transform="rotate(-8 303 271)"/><g transform="rotate(-8 303 271)"><circle cx="168" cy="181" r="5" fill="#d98062"/><circle cx="185" cy="181" r="5" fill="#e6c17e"/><circle cx="202" cy="181" r="5" fill="#6fa586"/><path d="M205 241l-24 24 24 24m160-48l24 24-24 24m-75-70l-20 93" fill="none" stroke="#214d40" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/><path d="M215 338h112" stroke="#c5d4c3" stroke-width="9" stroke-linecap="round"/></g><path d="M455 76l9 22 22 9-22 9-9 22-9-22-22-9 22-9z" fill="#ad704e"/></svg>
+<!-- Illustration for the programming slide. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 525" role="img" aria-label="Схема окна с программным кодом">
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#4f6682" stroke-opacity=".28"/></pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173750"/><stop offset="1" stop-color="#292753"/></linearGradient>
+  </defs>
+  <rect width="600" height="525" fill="#0d1828"/>
+  <rect width="600" height="525" fill="url(#grid)"/>
+  <circle cx="482" cy="118" r="170" fill="#245379" opacity=".4"/>
+  <circle cx="88" cy="421" r="142" fill="#473b78" opacity=".45"/>
+  <path d="M78 95h444v336H78z" fill="url(#glow)" stroke="#729cb5" stroke-width="2"/>
+  <path d="M78 141h444" stroke="#729cb5" stroke-width="2"/>
+  <circle cx="105" cy="118" r="5" fill="#70e1ee"/><circle cx="123" cy="118" r="5" fill="#b6a4ff"/><circle cx="141" cy="118" r="5" fill="#91c3ff"/>
+  <path d="M143 211l-39 38 39 38m143-76l39 38-39 38m-35-98l-29 121" fill="none" stroke="#70e1ee" stroke-width="14" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M372 200h93m-93 24h63m-63 48h112m-112 24h75m-75 48h106" stroke="#8b9fbe" stroke-width="9" stroke-linecap="square"/>
+  <path d="M128 375h171" stroke="#b6a4ff" stroke-width="7"/>
+  <path d="M49 65h32m-16-16v32M507 456h42m-21-21v42" stroke="#70e1ee" stroke-width="2"/>
+</svg>

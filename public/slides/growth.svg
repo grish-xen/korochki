@@ -1,2 +1,18 @@
-﻿<!-- Vector artwork for the growth asset. -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 525" role="img" aria-label="Абстрактная иллюстрация развития"><rect width="600" height="525" fill="#e6e8d9"/><circle cx="435" cy="100" r="149" fill="#d5dfcb"/><circle cx="110" cy="384" r="130" fill="#efd2bd"/><path d="M128 389c65-121 134-161 214-141 64 16 102-43 119-113" fill="none" stroke="#214d40" stroke-width="17" stroke-linecap="round"/><path d="M426 149l35-32 14 45" fill="none" stroke="#214d40" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/><circle cx="166" cy="321" r="34" fill="#f8f7f0" stroke="#214d40" stroke-width="10"/><circle cx="291" cy="249" r="34" fill="#f8f7f0" stroke="#214d40" stroke-width="10"/><circle cx="414" cy="220" r="34" fill="#f8f7f0" stroke="#214d40" stroke-width="10"/><path d="M153 321h26m112-13v-17m0-16v-17m112-38h25" stroke="#b86b4c" stroke-width="6" stroke-linecap="round"/><path d="M106 139l10 25 25 10-25 10-10 25-10-25-25-10 25-10z" fill="#c87958"/><path d="M510 347l6 15 15 6-15 6-6 15-6-15-15-6 15-6z" fill="#c87958"/></svg>
+<!-- Illustration for the progress slide. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 525" role="img" aria-label="Схема роста и развития">
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#4f6682" stroke-opacity=".28"/></pattern>
+  </defs>
+  <rect width="600" height="525" fill="#10192a"/>
+  <rect width="600" height="525" fill="url(#grid)"/>
+  <circle cx="465" cy="90" r="170" fill="#333f79" opacity=".58"/>
+  <circle cx="77" cy="425" r="138" fill="#1d5366" opacity=".55"/>
+  <path d="M72 417h452M72 355h452M72 293h452M72 231h452M72 169h452" stroke="#63829e" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M90 417l110-78 100 26 117-142 93-97" fill="none" stroke="#70e1ee" stroke-width="13" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M454 126h56v57" fill="none" stroke="#70e1ee" stroke-width="13"/>
+  <circle cx="90" cy="417" r="16" fill="#b6a4ff" stroke="#16293d" stroke-width="6"/>
+  <circle cx="200" cy="339" r="16" fill="#b6a4ff" stroke="#16293d" stroke-width="6"/>
+  <circle cx="300" cy="365" r="16" fill="#b6a4ff" stroke="#16293d" stroke-width="6"/>
+  <circle cx="417" cy="223" r="16" fill="#b6a4ff" stroke="#16293d" stroke-width="6"/>
+  <path d="M90 95h92m-92 22h55m301 330h65" stroke="#9aadd0" stroke-width="8"/>
+</svg>

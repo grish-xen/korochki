@@ -1,2 +1,18 @@
-﻿<!-- Vector artwork for the data asset. -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 525" role="img" aria-label="Абстрактная иллюстрация баз данных"><rect width="600" height="525" fill="#dfe7e6"/><circle cx="430" cy="115" r="135" fill="#cedbdd"/><circle cx="117" cy="375" r="126" fill="#ecd7c4"/><path d="M179 154l143-44 127 83-41 151-163 62-110-106z" fill="#f7f6ee" stroke="#214d40" stroke-width="12" stroke-linejoin="round"/><path d="M179 154l143 90 127-51M322 244l-77 162M322 244l86 100" stroke="#214d40" stroke-width="10" fill="none"/><circle cx="179" cy="154" r="22" fill="#a8c9ad" stroke="#214d40" stroke-width="7"/><circle cx="322" cy="110" r="22" fill="#e8af82" stroke="#214d40" stroke-width="7"/><circle cx="449" cy="193" r="22" fill="#a8c9ad" stroke="#214d40" stroke-width="7"/><circle cx="408" cy="344" r="22" fill="#e8af82" stroke="#214d40" stroke-width="7"/><circle cx="245" cy="406" r="22" fill="#a8c9ad" stroke="#214d40" stroke-width="7"/><circle cx="135" cy="300" r="22" fill="#e8af82" stroke="#214d40" stroke-width="7"/><circle cx="322" cy="244" r="36" fill="#214d40"/><path d="M308 244h28m-14-14v28" stroke="#f5f2e8" stroke-width="6" stroke-linecap="round"/></svg>
+<!-- Illustration for the database slide. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 525" role="img" aria-label="Схема связанных данных">
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#4f6682" stroke-opacity=".28"/></pattern>
+  </defs>
+  <rect width="600" height="525" fill="#0e1b2a"/>
+  <rect width="600" height="525" fill="url(#grid)"/>
+  <circle cx="470" cy="100" r="165" fill="#1e4a65" opacity=".55"/>
+  <circle cx="103" cy="440" r="130" fill="#443879" opacity=".53"/>
+  <path d="M123 160l166-58 176 93-20 161-170 70-164-105z" fill="#16283e" stroke="#8da9c1" stroke-width="3" stroke-linejoin="miter"/>
+  <path d="M123 160l167 105 175-70M290 265l-15 161M290 265l155 91M123 160l-12 161" fill="none" stroke="#587998" stroke-width="5"/>
+  <circle cx="123" cy="160" r="19" fill="#70e1ee"/><circle cx="289" cy="102" r="19" fill="#b6a4ff"/>
+  <circle cx="465" cy="195" r="19" fill="#70e1ee"/><circle cx="445" cy="356" r="19" fill="#b6a4ff"/>
+  <circle cx="275" cy="426" r="19" fill="#70e1ee"/><circle cx="111" cy="321" r="19" fill="#b6a4ff"/>
+  <circle cx="290" cy="265" r="42" fill="#0e1b2a" stroke="#70e1ee" stroke-width="8"/>
+  <path d="M273 265h34m-17-17v34" stroke="#70e1ee" stroke-width="6"/>
+  <path d="M491 417h41m-21-20v40" stroke="#70e1ee" stroke-width="2"/>
+</svg>
