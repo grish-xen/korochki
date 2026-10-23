@@ -1,0 +1,9 @@
+{
+  "name": "korochki-client",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev": "vite --configLoader runner --host 127.0.0.1", "build": "vite build --configLoader runner"},
+  "dependencies": {"react": "^19.1.0", "react-dom": "^19.1.0"},
+  "devDependencies": {"vite": "^7.1.0"}
+}
