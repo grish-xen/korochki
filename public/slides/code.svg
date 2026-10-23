@@ -1,4 +1,4 @@
-<!-- Illustration for the programming slide. -->
+<!-- Иллюстрация для слайда о программировании. -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 525" role="img" aria-label="Схема окна с программным кодом">
   <defs>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#4f6682" stroke-opacity=".28"/></pattern>

@@ -1,4 +1,4 @@
-# Load local settings and start the Django API plus built React client.
+# Загружает локальные настройки и запускает Django вместе с собранным сайтом.
 param([Parameter(ValueFromRemainingArguments = $true)][string[]]$Command)
 $projectRoot = Split-Path -Parent $PSScriptRoot
 $settingsFile = Join-Path $projectRoot '.env'

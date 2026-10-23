@@ -1,7 +1,9 @@
-"""Application configuration."""
+"""Конфигурация приложения."""
+
 from django.apps import AppConfig
 
 
 class PortalConfig(AppConfig):
-    """Configure the portal models and routes."""
-    name = 'portal'
+    """Регистрирует приложение с моделями и маршрутами."""
+
+    name = "portal"

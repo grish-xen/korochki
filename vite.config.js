@@ -1,7 +1,7 @@
-import { defineConfig } from 'vite';
+import { defineConfig } from "vite";
 
-/** Connects the local React client to the Django API. */
+/** Подключает локальный клиент React к API Django. */
 export default defineConfig({
-  build: { outDir: 'frontend/dist', emptyOutDir: true },
-  server: { proxy: { '/api': 'http://127.0.0.1:8765' } },
+  build: { outDir: "frontend/dist", emptyOutDir: true },
+  server: { proxy: { "/api": "http://127.0.0.1:8765" } },
 });

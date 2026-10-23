@@ -1,1 +1,1 @@
-"""Course portal application."""
+"""Приложение сайта курсов."""
